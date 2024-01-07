@@ -1,0 +1,17 @@
+.heading {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 100px;
+  }
+  
+  .buttons img{
+    width: 200px;
+    height: 250px;
+  }
